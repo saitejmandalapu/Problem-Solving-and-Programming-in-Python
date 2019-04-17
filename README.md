@@ -7,6 +7,6 @@ Step1: We need three variables.(Example:a,b,c..)
 
 Step2: Finding maximum number through IF condition.
 
-Step3 Run max.py file in Idle.
+Step3: Run max.py file in Idle.
 
-Step4 Give values at Runtime.
+Step4: Give values at Runtime.
